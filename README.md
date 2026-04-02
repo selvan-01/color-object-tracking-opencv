@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail06.png" width="800">
+</p>
+
 # Real-Time Color Object Tracking using OpenCV
 
 ## 📌 Project Overview
@@ -46,6 +50,11 @@ Run the project : python color_object_tracking.py
 - Object distance estimation
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/color-object-tracking-opencv.git)
 
 ## 👨‍💻 Author
 
